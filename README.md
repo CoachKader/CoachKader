@@ -38,4 +38,4 @@
 [instagram]: https://instagram.com/trulybiblical
 [twitter]: https://twitter.com/sh3r44z
 [linkedin]: https://linkedin.com/in/sheraaz-kader-8abb7620a/
-[outlook]: mailto: sheraaz.kader@outlook.com
+[outlook]: mailto:sheraaz.kader@outlook.com
