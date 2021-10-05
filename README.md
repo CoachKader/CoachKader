@@ -2,7 +2,7 @@
 
 ## Who I am and What I Do
 - I'm currently 22 years of age
-- I'm a self thought web-developer 👨‍🎓
+- I'm a self-taught web-developer 👨‍🎓
 - I'm currently learning any and everything there is to learn ⚡
 - I aspire to move towards Data Science and Machine Learning one day 
 - My goals for the rest of 2021 is to get my first Junior Developer job as well as contribute to some open source code.
