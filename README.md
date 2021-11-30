@@ -1,7 +1,7 @@
 ### Hi, my name is Sheraaz, and this is an introduction.. to me!👋
 
 ## Who I am and What I Do
-- I'm currently 22 years of age
+- I'm currently 23 years of age
 - I'm a self-taught web-developer 👨‍🎓
 - I'm currently learning any and everything there is to learn ⚡
 - I aspire to move towards Data Science and Machine Learning one day 
