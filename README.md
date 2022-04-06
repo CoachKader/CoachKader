@@ -4,7 +4,6 @@
 - I'm currently 23 years of age
 - I'm a self-taught web-developer 👨‍🎓
 - I'm currently learning any and everything there is to learn ⚡
-- I aspire to move towards Data Science and Machine Learning one day 
 - My interests include: Motorsport 🏎️, Gym 🏋️‍♂️, Football ⚽ and Gaming 🎮
 
 ### Where You Can Find Me:
@@ -35,6 +34,6 @@
 
 
 
-[twitter]: https://twitter.com/sh3r44z
+
 [linkedin]: https://linkedin.com/in/sheraaz-kader-8abb7620a/
 [outlook]: mailto:sheraaz.kader@outlook.com
